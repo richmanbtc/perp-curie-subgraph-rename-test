@@ -16,11 +16,6 @@
             "createdBlockNumber": 513569,
             "name": "contracts/AccountBalance.sol:AccountBalance"
         },
-        "BNBUSDChainlinkPriceFeed": {
-            "address": "0xcAd994415747355c8A2E6556d1021905B4E204Ce",
-            "createdBlockNumber": 4498994,
-            "name": "contracts/ChainlinkPriceFeed.sol:ChainlinkPriceFeed"
-        },
         "BTCUSDChainlinkPriceFeed": {
             "address": "0x8774a1038471Ff73E10B1dbe165287c03289eb8b",
             "createdBlockNumber": 2584278,
@@ -124,11 +119,6 @@
         "vAVAX": {
             "address": "0x5FAa136Fc58B6136fFDAeAAC320076C4865c070F",
             "createdBlockNumber": 2390611,
-            "name": "contracts/BaseToken.sol:BaseToken"
-        },
-        "vBNB": {
-            "address": "0xb6599Bd362120Dc70D48409B8a08888807050700",
-            "createdBlockNumber": 4533613,
             "name": "contracts/BaseToken.sol:BaseToken"
         },
         "vBTC": {
@@ -282,13 +272,6 @@
             "address": "0xD26ffdDE6c0DAaAbEB0a6806221c6b9fE7519bdf",
             "baseAddress": "0x7EAdA83e15AcD08d22ad85A1dCE92E5A257Acb92",
             "baseSymbol": "vFLOW",
-            "quoteAddress": "0xC84Da6c8ec7A57cD10B939E79eaF9d2D17834E04",
-            "quoteSymbol": "vUSD"
-        },
-        {
-            "address": "0xf4d40ebCBf7063D4ff56C6Df0179a86287C648dE",
-            "baseAddress": "0xb6599Bd362120Dc70D48409B8a08888807050700",
-            "baseSymbol": "vBNB",
             "quoteAddress": "0xC84Da6c8ec7A57cD10B939E79eaF9d2D17834E04",
             "quoteSymbol": "vUSD"
         }
